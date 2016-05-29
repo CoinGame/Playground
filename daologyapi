@@ -1,5 +1,16 @@
 <div data-dao-lang="markdown">
+parse as markdown
 </div>
 
+<div>
+don't parse me
+</div>
+
+
 <div data-dao-lang="katex">
+parse as katex
+</div>
+
+<div>
+don't parse me either
 </div>
